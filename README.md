@@ -1,5 +1,7 @@
 # :shorts: Shortly Back
 
+![Badge Finalizado](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=success&style=for-the-badge)
+
 # Índice
 
 - [Sobre](#Sobre)
@@ -21,7 +23,7 @@
 <br/>
 
 # Sobre
-Shorty Back é a API do [Shortly](https://github.com/AnaLTFernandes/shortly), um site encurtador de URLs.
+Shorty Back é a API do [Shortly](https://github.com/anatfernandes/shortly), um site encurtador de URLs.
 
 <br/>
 
@@ -210,7 +212,7 @@ Shorty Back é a API do [Shortly](https://github.com/AnaLTFernandes/shortly), um
 
 1. Clone esse repositório:
 >```bash
-> git clone https://github.com/AnaLTFernandes/shortly-back.git
+> git clone https://github.com/anatfernandes/shortly-back.git
 >```
 
 2. Instale as dependências:
@@ -233,6 +235,6 @@ Shorty Back é a API do [Shortly](https://github.com/AnaLTFernandes/shortly), um
 >$ npm run dev
 >```
 
-7. Instale e configure o frontend em https://github.com/AnaLTFernandes/shortly
+7. Instale e configure o frontend em https://github.com/anatfernandes/shortly
 
 8. Divirta-se nas rotas usando de URL base: `http://localhost:{ENV_PORT}`
